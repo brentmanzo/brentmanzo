@@ -1,5 +1,13 @@
-### Hi there 👋
+<div align="center">
+   <h3>Hi there!</h3>
+</div>
+<div align="center">  
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=brentmanzo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+</div>
 
+<div align="center">  
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brentmanzo&layout=compact&theme=transparent&hide_border=true&hide=java,php,blade,css,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+</div>
 <!--
 **brentmanzo/brentmanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
