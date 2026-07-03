@@ -2,9 +2,6 @@
    <h3>Hi there!</h3>
 </div>
 <div align="center">  
-  <img width="400" src="https://github-stats-extended.vercel.app/api?username=brentmanzo&theme=radical&layout=compact&theme=transparent&hide_border=true&hide=php,blade,css" />
-</div>
-<div align="center">  
   <img width="400" src="https://github-stats-extended.vercel.app/api?username=brentmanzo&show_icons=true&cache_seconds=86400&theme=transparent" />
 </div>
 <!--
