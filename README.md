@@ -2,7 +2,7 @@
    <h3>Hi there!</h3>
 </div>
 <div align="center">  
-  <img width="400" src="https://github-stats-extended.vercel.app/api?username=brentmanzo&show_icons=true&cache_seconds=86400&theme=transparent" />
+  <img width="400" src="https://github-stats-extended.vercel.app/api?username=brentmanzo&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=transparent" />
 </div>
 <!--
 **brentmanzo/brentmanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
