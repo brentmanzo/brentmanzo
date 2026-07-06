@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Brent
 
-💻 Full-Stack Software Engineer from the Philippines with 3+ years of experience building modern web applications.
+💻 Full-Stack Software Engineer from the Philippines with 4+ years of experience building modern web applications.
 
 I'm passionate about creating scalable software, solving real-world problems, and continuously learning new technologies. Currently, I'm expanding into **AI Systems Engineering**, cloud infrastructure, and intelligent applications.
 
