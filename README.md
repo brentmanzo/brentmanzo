@@ -22,6 +22,8 @@ I'm passionate about creating scalable software, solving real-world problems, an
 | **Cloud** | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure) ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?logo=amazonaws) |
 | **AI** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-121212) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman) |
+
+![Brent's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=brentmanzo&show_icons=true&include_all_commits=true&theme=radical)
 <!--
 ## 📌 Featured Projects
 
