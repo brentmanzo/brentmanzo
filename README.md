@@ -7,7 +7,7 @@ I'm passionate about creating scalable software, solving real-world problems, an
 ## 🚀 About Me
 
 - 💼 Full-Stack Software Engineer
-- 🌱 Currently learning Python, AI Engineering, and Cloud Technologies
+- 🌱 Currently building with Python, AI Engineering, and Cloud Technologies
 - 🤖 Building AI-powered tools and knowledge hubs
 - 📚 Lifelong learner focused on backend systems, automation, and developer tools
 - 🎯 Goal: Build products that solve real business problems
